@@ -5,7 +5,6 @@ public class Game {
     Printer printer = new Printer();
 
     boolean smallGame(String three_digit, String answer){
-        boolean success_fail;
         int strike;
         int ball;
 
